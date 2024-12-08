@@ -1,5 +1,5 @@
 # ClosestPairOfPoints
-__Solved for D-dimensional space using Divide And Conquer. Time complexity:  O(n*(logn)^(D-1))__
+__Implemented solution for D-dimensional space using Divide And Conquer. Time complexity:  O(n*(logn)^(D-1))__
   
 The problem is solved for D dimensions where D is a parameter.  
 The closestPairDim function uses divide and conquer to find the distance between the closest pair of points.  
